@@ -1,6 +1,6 @@
 {
 	"title": "崩壊:スターレイル 跳躍シミュ",
-	"welcomeMsg": "模擬跳躍にようこそ！開拓者の諸君が神引きすることを期待しておるぞ🙂",
+	"welcomeMsg": "模擬跳躍にようこそ！開拓者の諸君が神引きすることを期待しておるぞ",
 	"loadSimulator": "シミュレーターを起動",
 	"disclaimer": "このウェブサイトはHoYoverseが公認したものではなく、使用されているすべてのリソースは著作権者が所有しています。",
 	"character": "キャラクター",
@@ -77,7 +77,7 @@
 		"preloadFilesMsg": "*読み込まれたファイルはブラウザストレージに保存されるため、サイトが更新されるまで再度読み込む必要はありません。",
 		"firstTimeShare": "First-time Share Rewards:",
 		"firstShareObtain": "First-time Sharing will Obtain {reward}",
-		"sharingTxt": "Come and try this Honkai: Star Rail Warp Simulator!"
+		"sharingTxt": "Come and try this Star Rail Simulator!"
 	},
 	"banner": {
 		"all": "すべて",

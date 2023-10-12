@@ -1,4 +1,4 @@
-# Honkai: Star Rail Warp Simulator
+# Star Rail Simulator
 
 ![License](https://badgen.net/github/license/AguzzTN54/HSR-Warp-Simulator?icon:github) ![Repo Size](https://img.shields.io/github/repo-size/AguzzTN54/HSR-Warp-Simulator?color=fa0) [![CodeFactor](https://www.codefactor.io/repository/github/aguzztn54/HSR-Warp-Simulator/badge)](https://www.codefactor.io/repository/github/aguzztn54/HSR-Warp-Simulator) ![Status](https://badgen.net/github/checks/AguzzTN54/HSR-Warp-Simulator) ![Code Standard](https://badgen.net/badge/code%20style/standard/f2a) [![Saweria](https://badgen.net/badge/Saweria/AguzzTN54/F96854)](https://saweria.co/AguzzTN54)
 

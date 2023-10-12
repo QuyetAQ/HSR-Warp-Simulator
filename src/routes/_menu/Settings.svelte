@@ -158,7 +158,7 @@
 		</OptionsItem>
 
 		<OptionsItem optionName="reset">{$t('menu.clearStorage')}</OptionsItem>
-		<OptionsItem optionName="feedback">{$t('menu.giveComment')}</OptionsItem>
+		<!-- <OptionsItem optionName="feedback">{$t('menu.giveComment')}</OptionsItem> -->
 	</Scrollable>
 </div>
 

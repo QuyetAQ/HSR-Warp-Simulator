@@ -1,6 +1,6 @@
 {
-	"title": "Honkai: Star Rail Warp Simulator",
-	"welcomeMsg": "Welcome and Good Luck! 🙂",
+	"title": "Star Rail Simulator",
+	"welcomeMsg": "Welcome and Good Luck!",
 	"loadSimulator": "Buka Simulator",
 	"disclaimer": "Website ini tidak terafiliasi dengan HoYoverse, semua asset adalah property pemilik asli",
 	"character": "Karakter",
@@ -77,7 +77,7 @@
 		"preloadFilesMsg": "* File yang dimuat akan disimpan ke dalam penyimpanan broser, kamu tidak perlu memuatnya kembali sampai situs memerlukan update.",
 		"firstTimeShare": "Hadiah membagikan pertama kali:",
 		"firstShareObtain": "Membagikan pertama kali akan mendapatkan {reward}",
-		"sharingTxt": "Come and try this Honkai: Star Rail Warp Simulator!"
+		"sharingTxt": "Come and try this Star Rail Simulator!"
 	},
 	"banner": {
 		"all": "Semua Banner",

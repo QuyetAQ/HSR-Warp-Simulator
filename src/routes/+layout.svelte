@@ -19,7 +19,7 @@
 	} from '$lib/stores/app-store';
 	import { mobileDetect } from '$lib/helpers/mobile-detect';
 	import { mountLocale } from '$lib/helpers/i18n';
-	import Iklan from '$lib/components/Iklan.svelte';
+	// import Iklan from '$lib/components/Iklan.svelte';
 	import InitialLoader from './_index/InitialLoader.svelte';
 
 	let isLoaded = false;
@@ -134,9 +134,9 @@
 		crossorigin
 	/>
 
-	{#if isLoaded && $showAd}
+	<!-- {#if isLoaded && $showAd}
 		<Iklan head />
-	{/if}
+	{/if} -->
 </svelte:head>
 
 <main
@@ -155,7 +155,7 @@
 	{/if}
 
 	{#if !previewScreen}
-		<span class="uid"> HSR.WishSimulator.App </span>
+		<span class="uid"> 1Studio </span>
 	{/if}
 </main>
 
@@ -213,7 +213,7 @@
 	.uid {
 		display: block;
 		position: fixed;
-		bottom: 0px;
+		bottom: 0.5em;
 		right: 2em;
 		padding: 0.2%;
 		z-index: 9999;

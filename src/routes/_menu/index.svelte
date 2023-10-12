@@ -25,18 +25,18 @@
 	};
 
 	$: fullscreen = browser ? $viewportHeight === window.screen.height : false;
-	const handleFullscreen = () => {
-		if (!fullscreen) {
-			const body = document.body;
-			if (body.requestFullscreen) return body.requestFullscreen();
-			if (body.webkitRequestFullscreen) return body.webkitRequestFullscreen();
-			if (body.msRequestFullscreen) return body?.msRequestFullscreen();
-		} else {
-			if (document.exitFullscreen) return document?.exitFullscreen();
-			if (document.webkitExitFullscreen) return document?.webkitExitFullscreen();
-			if (document.msExitFullscreen) return document?.msExitFullscreen();
-		}
-	};
+	// const handleFullscreen = () => {
+	// 	if (!fullscreen) {
+	// 		const body = document.body;
+	// 		if (body.requestFullscreen) return body.requestFullscreen();
+	// 		if (body.webkitRequestFullscreen) return body.webkitRequestFullscreen();
+	// 		if (body.msRequestFullscreen) return body?.msRequestFullscreen();
+	// 	} else {
+	// 		if (document.exitFullscreen) return document?.exitFullscreen();
+	// 		if (document.webkitExitFullscreen) return document?.webkitExitFullscreen();
+	// 		if (document.msExitFullscreen) return document?.msExitFullscreen();
+	// 	}
+	// };
 
 	// Toggle Show Menu
 	let showMenu = false;
@@ -143,12 +143,17 @@
 			</button>
 		{/if}
 
-		<button on:click={handleFullscreen} title="Fullscreen">
+		<!-- <button on:click={handleFullscreen} title="Fullscreen">
 			<i class="hsr-{!fullscreen ? 'fullscreen' : 'shrink'}" />
-		</button>
+		</button> -->
 
 		<button class="toggle" on:click={toggleMenuList} title="Show Menu">
-			<i class="hsr-chevron-right" />
+			{#if !showToggle}
+				<i class="hsr-chevron-right" />
+			{/if}
+			{#if showToggle}
+				<i class="hsr-chevron-left" />
+			{/if}
 		</button>
 	</div>
 </div>

@@ -45,7 +45,7 @@
 
 	const saveHandler = () => {
 		playSfx('click2');
-		saveAs(blob, `HSR.WishSimulator.App - ${new Date().toLocaleString()}.png`);
+		saveAs(blob, `StarRailSimulator - ${new Date().toLocaleString()}.png`);
 		addFunds();
 	};
 
@@ -78,7 +78,7 @@
 				url: shareLink
 			};
 
-			const files = new File([blob], `HSR.WishSimulator.App - ${new Date().toLocaleString()}.png`, {
+			const files = new File([blob], `StarRailSimulator - ${new Date().toLocaleString()}.png`, {
 				type: blob.type,
 				lastModified: new Date().getTime()
 			});

@@ -113,7 +113,7 @@
 			<div class="via">WARPVIA</div>
 		{/if}
 		<div class="site">
-			<a href="/" title="Try Your Luck by this Simulator"> HSR.WISHSIMULATOR.APP </a>
+			<a href="/" title="Try Your Luck by this Simulator"> Star Rail Simulator </a>
 		</div>
 	</div>
 	<!-- End Show on Shareable screen -->

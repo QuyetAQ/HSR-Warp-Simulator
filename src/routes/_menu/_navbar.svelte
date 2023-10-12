@@ -29,13 +29,13 @@
 			on:click={() => select('updatelog')}
 		/>
 
-		{#if !$isPWA}
+		<!-- {#if !$isPWA}
 			<NavLinkItem
 				icon="honor"
 				active={activeMenu === 'prouser'}
 				on:click={() => select('prouser')}
 			/>
-		{/if}
+		{/if} -->
 	</NavLink>
 </div>
 

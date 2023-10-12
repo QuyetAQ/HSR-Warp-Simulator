@@ -42,7 +42,7 @@
 	.shop-button {
 		position: fixed;
 		z-index: +1;
-		left: 4%;
+		right: 4%;
 		bottom: 5%;
 		transition: all 0.2s;
 		width: 8vw;
@@ -53,7 +53,7 @@
 
 	@media screen and (max-width: 750px) {
 		.shop-button {
-			bottom: 10%;
+			bottom: 18%;
 		}
 	}
 

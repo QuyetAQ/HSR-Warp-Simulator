@@ -1,6 +1,6 @@
 {
-	"title": "Honkai: Star Rail Warp Simulator",
-	"welcomeMsg": "Welcome and Good Luck! 🙂",
+	"title": "Star Rail Simulator",
+	"welcomeMsg": "Welcome and Good Luck!",
 	"loadSimulator": "Load Simulator",
 	"disclaimer": "This Website is not affiliated with HoYoverse, all assets files are property of their original owners",
 	"character": "Character",
@@ -77,7 +77,7 @@
 		"preloadFilesMsg": "* Loaded files will be stored to Browser Storage, so you don't need to load them again until the site update.",
 		"firstTimeShare": "First-time Share Rewards:",
 		"firstShareObtain": "First-time Sharing will Obtain {reward}",
-		"sharingTxt": "Come and try this Honkai: Star Rail Warp Simulator!"
+		"sharingTxt": "Come and try this Star Rail Simulator!"
 	},
 	"banner": {
 		"all": "All Banner",

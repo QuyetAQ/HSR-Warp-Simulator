@@ -42,16 +42,16 @@
 	});
 </script>
 
-{#if showPreview}
+<!-- {#if showPreview}
 	<div class="preview" on:mousedown|self={handlePreview} transition:fade={{ duration: 250 }}>
 		<iframe
 			src="https://www.youtube.com/embed/vaUGgsqe2c4"
-			title="Pulling at Honkai: Star Rail Warp Simulator"
+			title="Pulling at Star Rail Simulator"
 			frameborder="0"
 			allowfullscreen
 		/>
 	</div>
-{/if}
+{/if} -->
 
 <div class="too-early" out:fade>
 	<img
@@ -65,7 +65,7 @@
 		{#if showForm}
 			<form class="wrapper" in:fade|local>
 				<div class="header">
-					<h1>Honkai: Star Rail Warp Simulator</h1>
+					<h1>Star Rail Simulator</h1>
 					<p>
 						<b> This Site will be public at Version 1.1 Update! </b> <br />
 						Early Access for

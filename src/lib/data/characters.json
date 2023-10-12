@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"name": "jingliu",
+			"rarity": 5,
+			"combat_type": "ice",
+			"path": "destruction",
+			"release": "1.4-1",
+			"bannerOffset": { "b": -44, "l": 8.5, "w": 110 },
+			"buttonOffset": { "t": -30, "l": 0, "w": 100 },
+			"splashartOffset": { "t": 59, "w": 90, "l": 52 },
+			"gachaCardOffset": { "l": 37, "t": 230, "w": 425 }
+		},
+		{
 			"name": "lynx",
 			"rarity": 4,
 			"combat_type": "quantum",

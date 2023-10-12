@@ -11,8 +11,8 @@
 
 <section>
 	<header>
-		<h1>Privacy Policy for HSR.WishSimulator.App</h1>
-		<h2><a href="/">Honkai: Star Rail Warp Simulator</a></h2>
+		<h1>Privacy Policy for Star Rail Simulator</h1>
+		<h2><a href="/">Star Rail Simulator</a></h2>
 	</header>
 
 	<article>

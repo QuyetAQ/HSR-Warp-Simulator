@@ -7,11 +7,11 @@
 	import { isPWA, proUser } from '$lib/stores/app-store';
 	import accessKey from '$lib/helpers/access-key';
 	import { initTrack } from '$lib/helpers/sounds/phonograph';
-	import { browserDetect } from '$lib/helpers/mobile-detect';
+	// import { browserDetect } from '$lib/helpers/mobile-detect';
 	import { playSfx } from '$lib/helpers/sounds/audiofx';
 
-	let savedKey = '';
-	let dateExpired = '';
+	// let savedKey = '';
+	// let dateExpired = '';
 
 	const retry = () => {
 		console.log('reconecting...');
@@ -38,7 +38,7 @@
 		playSfx();
 		initTrack();
 		closeWelcomeScreen();
-		verifyKey();
+		// verifyKey();
 	};
 </script>
 
@@ -49,7 +49,7 @@
 				<h1>{$t('title')}</h1>
 				<h2>{$t('welcomeMsg')}</h2>
 
-				{#if !browserDetect().isSupported && $isPWA}
+				<!-- {#if !browserDetect().isSupported && $isPWA}
 					<div class="updates adExpired">
 						<strong>
 							We highly recommend you to install
@@ -72,7 +72,7 @@
 							</a>
 						</div>
 					</div>
-				{:else}
+				{:else} -->
 					<div class="updates">
 						{#each [...logs.filter(({ featured }) => featured)].reverse() as { date, changes }}
 							<span>
@@ -82,11 +82,11 @@
 							<div style="height: .5rem" />
 						{/each}
 					</div>
-				{/if}
-
+				<!-- {/if} -->
+<!-- 
 				<h3 class="disclaimer">
 					{$t('disclaimer')}
-				</h3>
+				</h3> -->
 			</div>
 
 			<div class="footer">

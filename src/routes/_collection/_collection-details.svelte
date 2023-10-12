@@ -65,9 +65,8 @@
 
 		<!-- Show on Shareable screen -->
 		<div class="tanda-air">
-			<div class="via">WARPVIA</div>
 			<div class="site">
-				<span> HSR.WISHSIMULATOR.APP </span>
+				<span> 1Studio </span>
 			</div>
 		</div>
 		<!-- End Show on Shareable screen -->

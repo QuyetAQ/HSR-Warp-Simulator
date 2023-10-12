@@ -63,7 +63,7 @@ const screenshots = [
 
 const manifest = {
 	orientation: 'landscape',
-	name: 'Honkai: Star Rail Warp Simulator',
+	name: 'Star Rail Simulator',
 	short_name: 'HSR Warp Sim',
 	description:
 		"Just a Realistic Gacha Simulator for Honkai: Star Rail. Let's Simulate your luck unlimited times!",
@@ -110,7 +110,7 @@ const manifest = {
 		},
 		{
 			platform: 'play',
-			url: 'https://play.google.com/store/apps/details?id=hsr.wishsimulator.app',
+			url: 'https://play.google.com/store/apps/details?id=com.onestudio.starRailSimulator',
 			id: 'hsr.wishsimulator.app'
 		}
 	]
