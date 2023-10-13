@@ -218,6 +218,7 @@
 	:global(.mobileLandscape) .tanda-air {
 		font-size: 150%;
 	}
+
 	.tanda-air {
 		top: unset;
 		text-align: right;
@@ -237,12 +238,6 @@
 
 	.preview .tanda-air {
 		display: unset;
-	}
-
-	@media screen and (max-width: 600px) {
-		.tanda-air {
-			bottom: 7.5%;
-		}
 	}
 
 	.detail {
@@ -265,5 +260,15 @@
 
 	.detail .qty {
 		font-size: larger;
+	}
+
+	@media screen and (max-width: 600px) {
+		.tanda-air {
+			bottom: 7.5%;
+		}
+
+		.detail {
+			font-size: 120%;
+		}
 	}
 </style>
