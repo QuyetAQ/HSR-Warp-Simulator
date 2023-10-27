@@ -241,7 +241,7 @@
 		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 		background-color: #fff;
 		font-size: 0.97rem;
-		max-height: calc(0.15 * var(--screen-height));
+		max-height: calc(0.25 * var(--screen-height));
 		padding: 0 1rem;
 		display: block;
 		overflow: auto;

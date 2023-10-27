@@ -163,8 +163,15 @@
 		{
 			"date": "11 Oct 2023",
 			"featured": true,
+			"changes": ["Unlock Content: The 1st phase of 1.4 - <b>Jingliu & I Shall be My Own Sword</b>"]
+		},
+		{
+			"date": "27 Oct 2023",
+			"featured": true,
 			"changes": [
-				"Unlock Content: The 1st phase of 1.4 - <b>Jingliu & I Shall be My Own Sword</b>"
+				"Unlock Content: The 2nd phase of 1.4",
+				"<b>Topaz & Worrisome Blissful</b>",
+				"<b>Seele & In the Night</b>"
 			]
 		}
 	]
