@@ -110,7 +110,7 @@ const manifest = {
 		},
 		{
 			platform: 'play',
-			url: 'https://play.google.com/store/apps/details?id=com.onestudio.starRailSimulator',
+			url: 'https://play.google.com/store/apps/details?id=com.starStudio.starRailSimulator',
 			id: 'hsr.wishsimulator.app'
 		}
 	]
