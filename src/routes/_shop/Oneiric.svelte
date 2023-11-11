@@ -85,6 +85,20 @@
 								<img src={$assets[`oneiric-${qty}.webp`]} alt="oneiric" />
 							</picture>
 
+							<!-- {#if initialTopup && doubleBonus}
+								<div class="bonus initial">
+									<Icon type="oneiric" />
+									{$t('shop.bonus')} +{qty}
+								</div>
+							{:else if qty !== 60}
+								<div class="bonus">
+									<Icon type="oneiric" />
+									{$t('shop.bonus')} +{topupBonus[qty]}
+								</div>
+							{/if}
+							<span>{$t('item.oneiric')} ×{qty}</span> -->
+						</div>
+						<div class="price">
 							{#if initialTopup && doubleBonus}
 								<div class="bonus initial">
 									<Icon type="oneiric" />
@@ -96,10 +110,8 @@
 									{$t('shop.bonus')} +{topupBonus[qty]}
 								</div>
 							{/if}
-							<span>{$t('item.oneiric')} ×{qty}</span>
-						</div>
-						<div class="price">
-							<span> {price} </span>
+							<span>×{qty}</span>
+							<!-- <span> {price} </span> -->
 						</div>
 					</button>
 				</ShopGroupItem>
@@ -197,7 +209,7 @@
 		transform: translateY(-50%);
 	}
 
-	.item-pic span {
+	/* .item-pic span {
 		width: 100%;
 		bottom: 2.5%;
 		left: 0;
@@ -207,7 +219,7 @@
 		text-shadow: 0 0 0.1rem #000;
 		display: block;
 		font-size: calc(0.075 * var(--item-width));
-	}
+	} */
 
 	.price {
 		background-color: #fff;

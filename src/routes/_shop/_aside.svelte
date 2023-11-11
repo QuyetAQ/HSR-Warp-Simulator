@@ -47,7 +47,7 @@
 		{$t('shop.stellarTrade')}
 	</NavLinkItem>
 
-	<NavLinkItem icon="honor" active={activeShop === 'donate'} on:click={() => selectShop('donate')}>
+	<!-- <NavLinkItem icon="honor" active={activeShop === 'donate'} on:click={() => selectShop('donate')}>
 		{$t('shop.donate')}
-	</NavLinkItem>
+	</NavLinkItem> -->
 </NavLink>

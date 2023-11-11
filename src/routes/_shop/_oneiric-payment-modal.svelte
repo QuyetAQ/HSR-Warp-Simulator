@@ -63,7 +63,7 @@
 						<small>+{data.bonus} {$t('shop.bonus')}</small>
 					{/if}
 				</div>
-				<div class="price">{data.price}</div>
+				<!-- <div class="price">{data.price}</div> -->
 			</div>
 
 			<caption>{$t('shop.selectMethod')}</caption>
@@ -175,9 +175,9 @@
 	.name {
 		opacity: 0.6;
 	}
-	.price {
+	/* .price {
 		color: #de6422;
-	}
+	} */
 
 	caption {
 		display: block;
