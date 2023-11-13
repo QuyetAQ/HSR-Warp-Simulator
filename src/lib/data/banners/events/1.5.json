@@ -6,12 +6,12 @@
 			"banners": {
 				"regularVersion": 1,
 				"character": {
-					"bannerID": ["14-1"],
-					"rateup": ["tingyun", "qingque", "sampo"]
+					"bannerID": ["23-1"],
+					"rateup": ["dan-heng", "arlan", "serval"]
 				},
 				"lightcone": {
-					"bannerID": ["16-1"],
-					"rateup": ["eyes-of-the-prey", "memories-of-the-past", "make-the-world-clamor"]
+					"bannerID": ["24-1"],
+					"rateup": ["subscribe-for-more", "shared-feeling", "trend-of-the-universal-market"]
 				}
 			}
 		}

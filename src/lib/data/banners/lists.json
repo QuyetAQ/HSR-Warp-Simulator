@@ -129,6 +129,18 @@
 			"name": "brilliant-fixation",
 			"featured": "she-already-shut-her-eyes",
 			"type": "lightcone-event"
+		},
+		{
+			"id": 23,
+			"name": "bloom-in-gloom",
+			"featured": "huohuo",
+			"type": "lightcone-event"
+		},
+		{
+			"id": 24,
+			"name": "bloom-in-gloom",
+			"featured": "night-of-fright",
+			"type": "lightcone-event"
 		}
 	]
 }
