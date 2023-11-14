@@ -155,32 +155,35 @@
 		},
 		{
 			"date": "14 Sep 2023",
-			"featured": true,
 			"changes": [
 				"Unlock Content: The 2nd phase of 1.3 - <b>Fu Xuan & She Already Shut Her Eyes</b>"
 			]
 		},
 		{
-			"date": "11 Oct 2023",
-			"featured": true,
+			"date": "01 Oct 2023",
 			"changes": ["Unlock Content: The 1st phase of 1.4 - <b>Jingliu & I Shall be My Own Sword</b>"]
 		},
 		{
-			"date": "27 Oct 2023",
-			"featured": true,
+			"date": "10 Oct 2023",
 			"changes": [
-				"Unlock Content: The 2nd phase of 1.4",
-				"<b>Topaz & Worrisome Blissful</b>",
-				"<b>Seele & In the Night</b>"
+				"Add New Character: <b>Huohuo (5★)</b> & <b>Argenti (5★)</b>",
+				"Add New Character: <b>Hanya (4★)</b>",
+				"Add New Light Cones: <b>Night of Fright</b> & <b>An Instance Before a Gaze</b>"
 			]
 		},
 		{
-			"date": "15 Nov 2023",
+			"date": "23 Oct 2023",
 			"featured": true,
 			"changes": [
-				"Add New Character: <b>Huohuo (5★)</b>",
-				"Add New Light Cones: <b>Night of Fright</b>"
+				"Unlock Content: The 2nd phase of 1.4",
+				"<b>Topaz</b> & <b>Worrisome Blissful</b>",
+				"<b>Seele</b> & <b>In the Night</b>"
 			]
+		},
+		{
+			"date": "14 Nov 2023",
+			"featured": true,
+			"changes": ["Unlock Content: The 1st phase of 1.5 - <b>Huohuo & Night of Fright</b>"]
 		}
 	]
 }

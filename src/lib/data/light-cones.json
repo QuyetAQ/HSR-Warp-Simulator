@@ -1,19 +1,26 @@
 {
 	"data": [
 		{
+			"pro": true,
+			"name": "an-instance-before-a-gaze",
+			"rarity": 5,
+			"path": "erudition",
+			"limited": true,
+			"bannerOffset": { "b": -100, "r": -21, "w": 90, "xOrigin": 60 }
+		},
+		{
 			"name": "night-of-fright",
 			"rarity": 5,
 			"path": "abundance",
 			"limited": true,
-			"bannerOffset": { "b": -170, "r": -45, "w": 120 }
+			"bannerOffset": { "b": -85, "r": -30, "w": 85, "xOrigin": 60 }
 		},
 		{
-			"pro": true,
 			"name": "worrisome-blissful",
 			"rarity": 5,
 			"path": "hunt",
 			"limited": true,
-			"bannerOffset": { "b": -80, "r": -6, "w": 110 }
+			"bannerOffset": { "b": -75, "r": -50, "w": 110 }
 		},
 		{
 			"name": "i-shall-be-my-own-sword",

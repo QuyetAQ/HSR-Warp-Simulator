@@ -14,6 +14,25 @@
 					"rateup": ["subscribe-for-more", "shared-feeling", "trend-of-the-universal-market"]
 				}
 			}
+		},
+		{
+			"phase": 2,
+			"pro": true,
+			"banners": {
+				"regularVersion": 1,
+				"character": {
+					"bannerID": ["25-1", "6-2"],
+					"rateup": ["hanya", "lynx", "asta"]
+				},
+				"lightcone": {
+					"bannerID": ["26-1", "17-2"],
+					"rateup": [
+						"resolution-shines-as-pearls-of-sweat",
+						"the-moles-welcome-you",
+						"only-silence-remains"
+					]
+				}
+			}
 		}
 	]
 }
