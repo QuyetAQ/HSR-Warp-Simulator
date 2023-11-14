@@ -173,6 +173,14 @@
 				"<b>Topaz & Worrisome Blissful</b>",
 				"<b>Seele & In the Night</b>"
 			]
+		},
+		{
+			"date": "15 Nov 2023",
+			"featured": true,
+			"changes": [
+				"Add New Character: <b>Huohuo (5★)</b>",
+				"Add New Light Cones: <b>Night of Fright</b>"
+			]
 		}
 	]
 }
