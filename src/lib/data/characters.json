@@ -3,8 +3,8 @@
 		{
 			"name": "huohuo",
 			"rarity": 5,
-			"combat_type": "fire",
-			"path": "hunt",
+			"combat_type": "wind",
+			"path": "abundance",
 			"bannerOffset": { "b": -58, "l": -1.5, "w": 120 },
 			"buttonOffset": { "t": -40, "l": -5, "w": 115 },
 			"splashartOffset": { "t": 65, "w": 100 },
